@@ -4,6 +4,15 @@ Android Notifications Sample
 
 This sample showcases the available notification styles on a device and wearable.
 
+Todo: check to add function from belowing sample
+[android-BasicNotifications](https://github.com/googlesamples/android-BasicNotifications),
+[android-CustomNotifications](https://github.com/googlesamples/android-CustomNotifications), and 
+[android-ActiveNotifications](https://github.com/googlesamples/android-ActiveNotifications)
+
+Notification channel in latest android O
+
+[android-NotificationChannels](https://github.com/googlesamples/android-NotificationChannels)
+
 Introduction
 ------------
 
